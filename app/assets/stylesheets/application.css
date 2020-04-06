@@ -55,3 +55,21 @@ clearfix::after {
 	line-height: 18px;
 	display: block;
 }
+
+.index-box {
+	font-family: verdana, arial, helvetica, sans-serif;
+	margin: 33px;
+	background-color: #fff;
+	color: #333;
+	font-size: 13px;
+	line-height: 18px;
+}
+
+.index-headline {
+	font-weight: bold;
+
+}
+
+.th {
+	padding-bottom: 5px;
+}
