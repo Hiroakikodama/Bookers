@@ -17,6 +17,7 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+	font-family: verdana, arial, helvetica, sans-serif;
 }
 
 a {
@@ -57,19 +58,14 @@ clearfix::after {
 }
 
 .index-box {
-	font-family: verdana, arial, helvetica, sans-serif;
 	margin: 33px;
-	background-color: #fff;
-	color: #333;
-	font-size: 13px;
-	line-height: 18px;
 }
 
 .index-headline {
-	font-weight: bold;
-
+	line-height: 18px;
 }
 
-.th {
-	padding-bottom: 5px;
+.table {
+	font-family:verdana, arial, helvetica, sans-serif;
 }
+
